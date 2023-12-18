@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\MeetingApp.csproj": {}
+    "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\meetinApp\\MeetingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\MeetingApp.csproj": {
+    "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\meetinApp\\MeetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\MeetingApp.csproj",
+        "projectUniqueName": "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\meetinApp\\MeetingApp.csproj",
         "projectName": "MeetingApp",
-        "projectPath": "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\MeetingApp.csproj",
+        "projectPath": "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\meetinApp\\MeetingApp.csproj",
         "packagesPath": "C:\\Users\\cod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\obj\\",
+        "outputPath": "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\meetinApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cod\\AppData\\Roaming\\NuGet\\NuGet.Config"

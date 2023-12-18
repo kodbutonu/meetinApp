@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "npwyq/xo3kXmoGQIFJTexCm2jfEXaJNyuAek69nw8Z1KygNyxVhYZiE8uV0k4oMTElU+ppcZsny2IqdJ3Gffww==",
+  "dgSpecHash": "MWjsVgdAakqmzTDlDeuYLzPf4/AYqr4XEnJinzW4ibV1y3QG6RT2y8VeZXn4+PMLOBT+cE7rR9Z34inbwUycsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\MeetingApp.csproj",
+  "projectFilePath": "C:\\Users\\cod\\Desktop\\netprojects\\MeetingApp\\meetinApp\\MeetingApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
